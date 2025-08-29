@@ -1,1 +1,2 @@
 # sedimentacao
+Esse projeto se destina a obter a curva de sedimentação de uma mistura de água com cabonato de cálcio. A curva de altura da interface de separação entre o sedimento e o clarificado, Z versus tempo de sedimentação. Para tanto, o usuário deverá carregar um arquivo em mp4 que se refere ao vídeo da sedimentação do tempo zero até o tempo final de sedimentação. O programa irá extrair fotos de tempos definidos pelo usuário e a partir dessas imagens identificar a interface de sedimentação e obter a tabela de Z(cm) vs t(segundos).
